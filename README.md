@@ -49,7 +49,7 @@
   <a href="https://github.com/search?l=C&q=user%3AChoromanski+is%3Arepo&type=Repositories">
     <img alt="C" src="https://img.shields.io/badge/C-%23CC342D.svg?&style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="https://github.com/search?l=HTML&q=user%3AChoromanski+is%3Arepo&type=Repositories">
-    <img alt="HTML" src="https://img.shields.io/badge/HTLM-%23CC0000.svg?&style=for-the-badge&logo=hmtl5&logoColor=white"></a>
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-%23CC0000.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?l=Shell&q=user%3AChoromanski+is%3Arepo&type=Repositories">
     <img alt="Shell" src="https://img.shields.io/badge/shell-grey.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="https://github.com/search?l=TeX&q=user%3AChoromanski+is%3Arepo&type=Repositories">
