@@ -21,11 +21,11 @@
 <!-- https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/qmk/qmk_firmware">
-    <img width="281" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qmk&repo=qmk_firmware&theme=cobalt&hide_border=true&show_owner=true"></a>
+    <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qmk&repo=qmk_firmware&theme=cobalt&hide_border=true&show_owner=true"></a>
   <a href="https://github.com/wtfutil/wtf">
-    <img width="281" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wtfutil&repo=wtf&theme=cobalt&hide_border=true&show_owner=true"></a>
+    <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wtfutil&repo=wtf&theme=cobalt&hide_border=true&show_owner=true"></a>
 <a href="https://github.com/djm158/pitt-cli">
-    <img width="281" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=djm158&repo=pitt-cli&theme=cobalt&hide_border=true&show_owner=true"></a>
+    <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=djm158&repo=pitt-cli&theme=cobalt&hide_border=true&show_owner=true"></a>
 </p>
 
 ## 🔥 Streak stats
